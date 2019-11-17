@@ -47,7 +47,7 @@
 以下是所有视频文件及文件夹结构一览：
 ```
 Snowboard Tutorials (from Youtube)
-	├── Beginner Snowboarding Tutorial (Snowboard Addiction)
+  ├── Beginner Snowboarding Tutorial (Snowboard Addiction)
   │   ├── 1_Beginner Hacks For Snowboarding.mp4
   │   ├── 2_Are You Regular Or Goofy.mp4
   │   ├── 3_Parts Of A Snowboard.mp4
