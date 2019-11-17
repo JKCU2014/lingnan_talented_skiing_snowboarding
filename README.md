@@ -1,4 +1,4 @@
-## 有天赋滑雪俱乐部章程
+## 滑雪俱乐部章程
 
 ### 俱乐部中文名：岭南学院有天赋滑雪俱乐部   
 ### 俱乐部英文名：Lingnan Talented Skiing/Snowboarding Club
